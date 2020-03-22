@@ -3,7 +3,11 @@
 Python 3.6.9
 
 #### Create  virtual env:
-`python3 -m venv _venv`
+`mkvirtualenv realsense -p python3`
 
 #### Activate virtual env:
-`. _venv/bin/activate`
+`workon realsense
+
+### Intall libraries
+`pip install numpy`
+``
