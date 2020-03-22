@@ -30,4 +30,5 @@ Reload `bashrc` with source:
 
 ### Intall libraries
 `pip install numpy`
-``
+`pip install matplotlib`
+`pip install jupyterlab`
