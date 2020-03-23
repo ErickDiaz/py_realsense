@@ -32,3 +32,12 @@ Reload `bashrc` with source:
 `pip install numpy`
 `pip install matplotlib`
 `pip install jupyterlab`
+`pip install scipy`
+#### Intall Pytorch
+```
+wget https://nvidia.box.com/shared/static/phqe92v26cbhqjohwtvxorrwnmrnfx1o.whl -O torch-1.3.0-cp36-cp36m-linux_aarch64.whl
+pip install numpy torch-1.3.0-cp36-cp36m-linux_aarch64.whl
+
+pip install torchvision
+```
+
