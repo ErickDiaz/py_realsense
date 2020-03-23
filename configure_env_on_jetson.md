@@ -32,3 +32,8 @@ Reload `bashrc` with source:
 `pip install numpy`
 `pip install matplotlib`
 `pip install jupyterlab`
+
+
+### Sources
+https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/
+https://forums.developer.nvidia.com/t/pytorch-for-jetson-nano-version-1-4-0-now-available/72048
