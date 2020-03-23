@@ -28,7 +28,7 @@ Reload `bashrc` with source:
 `workon realsense`
 
 
-### Intall libraries
+### Install libraries
 `pip install numpy`
 `pip install matplotlib`
 `pip install jupyterlab`
