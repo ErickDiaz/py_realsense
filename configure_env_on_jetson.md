@@ -33,6 +33,8 @@ Reload `bashrc` with source:
 `pip install matplotlib`
 `pip install jupyterlab`
 `pip install scipy`
+
+
 #### Intall Pytorch
 ```
 wget https://nvidia.box.com/shared/static/phqe92v26cbhqjohwtvxorrwnmrnfx1o.whl -O torch-1.3.0-cp36-cp36m-linux_aarch64.whl
@@ -40,6 +42,14 @@ pip install numpy torch-1.3.0-cp36-cp36m-linux_aarch64.whl
 
 pip install torchvision
 ```
+#### Intall Scipy
+```
+sudo apt-get install git cmake
+sudo apt-get install libatlas-base-dev gfortran
+```
+`
+pip install scipy
+`
 
 ### Sources
 https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/
