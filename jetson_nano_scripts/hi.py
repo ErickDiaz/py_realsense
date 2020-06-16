@@ -1,0 +1,8 @@
+print('========================================')
+print('    8                                   ')
+print('    8  eeee eeeee eeeee  eeeee eeeee    ')
+print('    8e 8      8   8   8  8  88   8      ')
+print('    88 8eee   8e  8eee8e 8   8   8e     ')
+print('e   88 88     88  88   8 8   8   88     ')
+print('8eee88 88ee   88  88eee8 8eee8   88  ')
+print('========================================')
